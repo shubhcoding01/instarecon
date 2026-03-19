@@ -1,0 +1,4 @@
+instaloader==4.12
+rich==13.7.1
+pandas==2.2.2
+tqdm==4.66.4
