@@ -425,3 +425,4 @@ def export_json(profiles: list[ProfileData], path: str) -> None:
     """Public export helper."""
     _save_json(profiles, path)
     log.info(f"Exported {len(profiles)} profiles → {path}")
+    
