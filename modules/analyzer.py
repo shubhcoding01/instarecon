@@ -275,3 +275,4 @@ def analyze(profile: dict) -> dict:
         "reasons": reasons,
         "summary": summary_map[risk],
     }
+    
